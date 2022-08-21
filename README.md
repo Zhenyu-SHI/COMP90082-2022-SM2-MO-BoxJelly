@@ -2,6 +2,7 @@
 This is the repository for team BoxJelly's Motivational Modelling Database.
 
 The structure of the repository
+
 ├── docs/                    # Documentation files
 
 ├── src/                       # src code
